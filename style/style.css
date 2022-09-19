@@ -1,0 +1,25 @@
+.field{
+    width: 400px;
+    height: 600px;
+    background-color: black;
+    margin: 0 auto;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+    color: white;
+}
+
+.character{
+    width: 60px;
+    height: 60px;
+    background-color: #944294;
+    border-radius: 100%;
+    position: absolute;
+}
+
+.platform{
+    width: 85px;
+    height: 15px;
+    background-color: white;
+    position: absolute;
+}
